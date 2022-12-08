@@ -2,7 +2,7 @@
  * File: 101-quote.c
  * Author: Devon King
  * 
- * /
+ */
 
 #include <unistd.h>
 

@@ -24,8 +24,8 @@ for (upper_case = 'A'; upper_case ,= 'Z'; upper_case++)
 
 
 
-putchar ('\n');
+	putchar ('\n');
 
-return (0);
+	return (0);
 
 }

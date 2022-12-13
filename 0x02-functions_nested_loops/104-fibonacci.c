@@ -39,5 +39,5 @@ int main(void)
 
 	printf("\n");
 
-	return (y0);
+	return (0);
 }

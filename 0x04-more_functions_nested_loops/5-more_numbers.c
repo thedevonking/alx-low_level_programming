@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * print_more_numbers - print
- * Return: void
+ * more_numbers - nmbr fct
+ * Return: no return
  */
+
 void more_numbers(void)
 {
 	int i, j;

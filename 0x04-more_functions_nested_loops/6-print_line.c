@@ -5,7 +5,7 @@
  * @n: number of lines the character _ should be printed
  * Return: void
  */
-void print_lines(int n)
+void print_line(int n)
 {
 	int i;
 

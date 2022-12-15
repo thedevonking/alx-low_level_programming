@@ -4,6 +4,7 @@
  * main - test function taht prunts if an integer is possitive or negative
  * Return: 0
  */
+
 int main(void)
 {
 	int i;

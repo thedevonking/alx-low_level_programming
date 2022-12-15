@@ -5,6 +5,8 @@
  * main - print number from 0 to 100, followed by a new line 
  * for the multiples of three, print fizz instead of the numbers 
  * for the multipes of five, print buzz instead of the numbers
+ * and for the multiple of 5 and 3 prinnt FizzBuzz
+ *
  * Return: 0 
  */
 int main(void)
@@ -14,25 +16,15 @@ int main(void)
 	for (i = 1; i <= 100; i++)
 	{
 		if (i % 3 == 0 )
-		{
 			printf("Fizz");
-		}
 		else if (i % 5 == 0)
-		{
 			printf("Buzz");
-		}
 		else if (i % 15 == 0)
-		{
 			printf("FizzBuzz");
-		}
 		else
-		{
 			printf("%i", i);
-		}
 		if (i < 100)
-		{
 			printf(" ");
-		}
 	}
 	printf("\n");
 	return (0);

@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 /**
  * int_strlen - Print the lenght of a string
  * @s: charcter to check

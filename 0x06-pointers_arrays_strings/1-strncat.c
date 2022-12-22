@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * _strncat - concatenate 2 strings
+ * _strncat - concatenates two strings
  *
- * @src: source of string
- * @dest: destination of strings
- * @n: length of int
+ * @src: The source of strings
+ * @dest: The destination of the string
+ * @n: The length of int
  *
- * Return: pointer to the returning string dest
+ * Return: pointer to the resulting string dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
@@ -21,6 +21,6 @@ char *_strncat(char *dest, char *src, int n)
 	{
 		dest[i + j] = src[j];
 	}
-	dest [i + j] = '\0';
+	dest[i + j] = '\0';
 	return (dest);
 }

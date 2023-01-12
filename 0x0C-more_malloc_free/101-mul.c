@@ -1,21 +1,3 @@
-
-BrightDaniel
-/
-alx-low_level_programming
-Public
-Code
-Issues
-2
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
-@BrightDaniel
-BrightDaniel More Malloc. Malloc is plenty
- 1 contributor
-148 lines (136 sloc)  2.52 KB
 #include "main.h"
 
 /**
